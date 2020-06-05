@@ -1,0 +1,6 @@
+prefect
+sqlalchemy
+pandas
+matplotlib
+nltk
+sklearn
